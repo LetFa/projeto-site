@@ -3,33 +3,43 @@
     font-size: 16px;
     margin-left: 10px;
 }
-h1{
+
+h1 {
     color: rgb(13, 51, 85);
     font-size: 20pt;
 }
+
 h2 {
     color: rgb(13, 51, 85);
     font-size: 18pt;
 }
+
 h3 {
     color: rgb(13, 51, 85);
     font-size: 18pt;
 }
-body{
+
+body {
     background-color: aliceblue;
 }
+
 main {
     background-color: rgb(127, 197, 255);
-    width: 900px;
+    width: 950px;
     height: 550px;
     margin: auto;
     position: absolute;
     top: 30px;
-    left: 170px;
+    left: 160px;
     box-shadow: 3px 3px 3px 3px #bbb;
     border-radius: 10px;
 }
 
 img.lado {
     float: left;
+}
+img#preto {
+    position: absolute;
+    left: 200px;
+    top: 10px;
 }
